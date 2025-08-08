@@ -17,7 +17,7 @@ El principal objetivo de este desafío es fortalecer las habilidades de lógica 
 ## 🛠️ Tecnologías utilizadas
 
 - HTML
-- CSS (opcional, si agregas estilo)
+- CSS 
 - JavaScript
 
 ## 📦 Estructura del proyecto
@@ -26,7 +26,7 @@ El principal objetivo de este desafío es fortalecer las habilidades de lógica 
 /mi-proyecto-amigo-secreto/
 │
 ├── index.html           # Interfaz principal
-├── style.css            # (Opcional) Estilos del proyecto
+├── style.css            
 └── script.js            # Lógica en JavaScript
 ```
 
